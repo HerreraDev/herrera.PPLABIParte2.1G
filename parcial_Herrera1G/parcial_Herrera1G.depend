@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1589578912 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\fecha.c
+	"fecha.h"
+
+1589578867 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\fecha.h
+
+1589847936 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+
+1589847913 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"dataWareHousue.h"
+	"validacionesHerrera.h"
+
+1589590299 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\moto.h
+	"tipo.h"
+	"color.h"
+
+1589588651 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1589590021 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\color.h
+
+1589848262 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589588889 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\servicio.h
+
+1589588689 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589588749 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\tipo.h
+
+1589589146 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"validacionesHerrera.h"
+
+1589585718 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\trabajo.h
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"moto.h"
+
+1589581440 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\datawarehousue.h
+
+1589393919 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\validacionesherrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacionesHerrera.h"
+
+1589221299 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\validacionesherrera.h
+
+1589588651 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1590104723 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\color.h
+
+1590087864 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\fecha.c
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590104456 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\fecha.h
+
+1590191945 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"dataWareHousue.h"
+	"validacionesHerrera.h"
+
+1590190210 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\moto.h
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1590104759 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\tipo.h
+
+1590086639 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\datawarehousue.h
+
+1590105128 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\validacionesherrera.h
+
+1590038094 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1590104646 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\servicio.h
+
+1589588689 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590188310 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"validacionesHerrera.h"
+
+1590186354 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\trabajo.h
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"moto.h"
+
+1590104898 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\validacionesherrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacionesHerrera.h"
+
+1590190857 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+	"cliente.h"
+	"informes.h"
+
+1590104242 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\cliente.h
+
+1590028560 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1590190413 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"validacionesHerrera.h"
+
+1590186436 c:\users\marti\desktop\facultad\programacion 1\parcial 1 parte 2\herrera.pplabiparte2.1g\parcial_herrera1g\informes.h
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+	"cliente.h"
+
